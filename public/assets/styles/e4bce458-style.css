@@ -1,0 +1,29 @@
+/*
+Theme Name: hello-elementor-child
+Description: hello-elementor 2023 child theme
+Author: JGKIDD
+Template: hello-elementor
+Version: 1.0.0
+*/
+
+
+
+@font-face {
+     font-family: 'Gelion';
+     src: local('Gelion'),
+         url("/assets/fonts/2393bdf4-Gelion-Regular.woff2") format('woff2'),
+         url("/assets/fonts/10c354ac-Gelion-Regular.woff") format('woff');
+     font-weight: normal;
+     font-style: normal;
+     font-display: swap;
+}
+
+@font-face {
+     font-family: 'Gelion';
+     src: local('Gelion'),
+         url("/assets/fonts/0f2ed623-Gelion-Black.woff2") format('woff2'),
+         url("/assets/fonts/89c2334c-Gelion-Black.woff") format('woff');
+     font-weight: black;
+     font-style: normal;
+     font-display: swap;
+}

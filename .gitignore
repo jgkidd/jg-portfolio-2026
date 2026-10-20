@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.site/
+.vercel/
+.env
+.env.*
+!.env.example
+.DS_Store
+*.log
+public/sitemap.xml
+public/robots.txt
